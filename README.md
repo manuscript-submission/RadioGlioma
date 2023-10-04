@@ -33,7 +33,6 @@ If you installed text-generation-webui, just execute :
 ## Reports preparation
 
 Reports must be in a singe .txt file, separated by a keyword you can change in auto_inference.py (default keyword is "NEXT_CASE")
-We advise that you segment your reports to concentrate on the pertinent section. Future work will be done to implement 16K context to process full reports.
 
 ## Prompting
 
