@@ -1,5 +1,5 @@
-# RadioVicuna
-Repository linked to the manuscript "Unlocking Information Extraction from Free-Text Radiological Reports: Performance of an Open-Source GPT Model" submitted to Radiology.
+# RadioGlioma
+Repository linked to the research letter "Open-source Generative Artificial Intelligence for Information Extraction from Radiology Reports" submitted to Radiology.
 
 
 ## Installation
